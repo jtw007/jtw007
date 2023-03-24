@@ -8,7 +8,6 @@
 <h3 align="center">Hello! I'm a front-end developer based in Southern California. I'm passionate about web developement, sneakers, cooking, traveling, and always seeking better methods to better my skills.</h3>
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuatwudev/)
 - ⚡ Fun fact: I love meeting new people and eating food!
 - 📜 My [Resume](https://drive.google.com/file/d/1xhq4NDOy1EYdpKJqeutz4eL5BW8JXIOu/view)
 
@@ -26,11 +25,12 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/joshuatwudev/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshuatwudev/" height="30" width="40" /></a> 
 
+### 📨 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jtw007)](https://github.com/jtw007)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatwudev/)](https://www.linkedin.com/in/joshuatwudev/)
 
+ 
 
 
 
