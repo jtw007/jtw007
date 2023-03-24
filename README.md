@@ -1,6 +1,16 @@
+
 <p align='center'>
   <img src='https://github.com/jtw007/jtw007/blob/main/profile.gif' />
 </p>
+
+![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
+
+<h3 align="center">Hello! I'm a front-end developer based in Southern California. I'm passionate about web developement, sneakers, cooking, traveling, and always seeking better methods to better my skills.</h3>
+
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuatwudev/)
+- ⚡ Fun fact: I love meeting new people and eating food!
+- 📜 My [Resume](https://drive.google.com/file/d/1xhq4NDOy1EYdpKJqeutz4eL5BW8JXIOu/view)
 
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=buefy&hide_border=true" /></a>
 
@@ -18,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joshuatwudev/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshuatwudev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshuatwudev/" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshuatwudev/" height="30" width="40" /></a> 
 
 
-![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
+
 
 
 
