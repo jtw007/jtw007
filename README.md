@@ -4,6 +4,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
+### 👻 About me 
 
 <h3 align="center">Hello! I'm a front-end developer based in Southern California. I'm passionate about web developement, sneakers, cooking, traveling, and always seeking better methods to better my skills.</h3>
 
@@ -14,7 +15,7 @@
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
-### Languages
+### 📚 Languages
 <a href="https://www.w3.org/TR/html5/" title="HTML5" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap" target="blank" rel="noopener noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="50px" height="50px"></a>
