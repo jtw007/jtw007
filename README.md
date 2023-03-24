@@ -2,7 +2,7 @@
   <img src='https://github.com/jtw007/jtw007/blob/main/profile.gif' />
 </p>
 
-| <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ### Languages
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
@@ -16,7 +16,7 @@
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="50px" height="50px"></a>
 
 
-
+![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
 
 
 
