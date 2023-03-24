@@ -1,6 +1,6 @@
 
 <p align='center'>
-  <img src='https://github.com/jtw007/jtw007/blob/main/profile.gif' />
+  <img src='https://github.com/jtw007/jtw007/blob/main/readme.gif' />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
