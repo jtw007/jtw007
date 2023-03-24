@@ -12,7 +12,8 @@
 - ⚡ Fun fact: I love meeting new people and eating food!
 - 📜 My [Resume](https://drive.google.com/file/d/1xhq4NDOy1EYdpKJqeutz4eL5BW8JXIOu/view)
 
-<a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Josh's github stats" /></a> | <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Josh's github stats" /></a> <br/>
+<a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=transparent&hide_border=true" /></a>
 
 
 ### 📚 Languages
