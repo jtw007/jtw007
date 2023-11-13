@@ -10,7 +10,7 @@
 
 - 💬 Ask me about anything and everything!
 - ⚡ Fun fact: I love meeting new people and eating food!
-- 📜 My [Resume](https://drive.google.com/file/d/1XpfOEouRMQEhRC3QNwcQuSVa3ahsDbyF/view?usp=drive_link)
+- 📜 My [Resume](https://drive.google.com/file/d/1kueyrz8OHLFUVR8WPUru2PokaYlB9EVF/view?usp=sharing)
 
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Josh's github stats" /></a> <br/>
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=transparent&hide_border=true" /></a>
