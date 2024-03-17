@@ -31,7 +31,6 @@
 
 
 ### 📨 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jtw007)](https://github.com/jtw007)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuatwudev/)](https://www.linkedin.com/in/joshuatwudev/)
 
  
