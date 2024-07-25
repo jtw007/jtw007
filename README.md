@@ -9,8 +9,7 @@
 <h3 align="center">Hello! I'm a front-end developer based in Southern California. I'm passionate about web developement, sneakers, cooking, traveling, and always seeking better methods to better my skills.</h3>
 
 - 💬 Ask me about anything and everything!
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 📜 My [Resume](https://drive.google.com/file/d/1svi6e7Y2bkKLss2KFIgZzzuLBNNOzeH_/view?usp=sharing)
+- 📜 My [Resume](https://docs.google.com/document/d/1QaHI997DM1theqIRrbxC43CIP6p8sp1PEMo4gFGcJrA/edit?usp=sharing)
 
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Josh's github stats" /></a> <br/>
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=transparent&hide_border=true" /></a>
