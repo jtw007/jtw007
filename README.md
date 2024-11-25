@@ -4,11 +4,8 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
-### 👻 About me 
 
-<h3 align="center">Hello! I'm a front-end developer based in Southern California. I'm passionate about web developement, sneakers, cooking, traveling, and always seeking better methods to better my skills.</h3>
 
-- 💬 Ask me about anything and everything!
 - 📜 My [Resume](https://docs.google.com/document/d/1QaHI997DM1theqIRrbxC43CIP6p8sp1PEMo4gFGcJrA/edit?usp=sharing)
 
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Josh's github stats" /></a> <br/>
