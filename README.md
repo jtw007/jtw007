@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=jtw007&color=0096AB)
 
 
-- 📜 My [Resume](https://docs.google.com/document/d/1QaHI997DM1theqIRrbxC43CIP6p8sp1PEMo4gFGcJrA/edit?usp=sharing)
+- 📜 My [Resume](https://docs.google.com/document/d/181rJFq0j1-psu2UMkNRHt8BH6y1ML5p-mI5dh6Retck/edit?usp=sharing)
 
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jtw007&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Josh's github stats" /></a> <br/>
 <a href="https://github.com/jtw007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtw007&layout=compact&theme=transparent&hide_border=true" /></a>
